@@ -1,0 +1,156 @@
+ofp_team_name,time_zone
+air force,MST
+akron,EST
+alabama,CST
+appalachian state,EST
+arizona,MST
+arizona st.,MST
+arkansas,CST
+arkansas st.,CST
+army,EST
+atlanta,EST
+auburn,CST
+ball st.,EST
+baltimore,EST
+baylor,CST
+boise st.,MST
+boston college,EST
+bowling green,EST
+buffalo,EST
+byu,MST
+california,PST
+carolina,EST
+central mich,EST
+charlotte 49ers,EST
+chicago,CST
+cincinnati,EST
+clemson,EST
+cleveland,EST
+coastal carolina,EST
+colorado,MST
+colorado st.,MST
+connecticut,EST
+dallas,CST
+denver,MST
+detroit,EST
+duke,EST
+east carolina,EST
+eastern mich,EST
+fiu,EST
+florida,EST
+florida atl.,EST
+florida st.,EST
+fresno st.,PST
+georgia,EST
+georgia southern,EST
+georgia st.,EST
+georgia tech,EST
+green bay,CST
+hawaii,HST
+houston,CST
+illinois,CST
+indiana,EST
+indianapolis,EST
+iowa,EST
+iowa st.,EST
+jacksonville,EST
+james madison,EST
+kansas,CST
+kansas city,CST
+kansas st.,CST
+kent state,EST
+kentucky,CST
+la chargers,PST
+la rams,PST
+las vegas,PST
+liberty,EST
+louisiana tech,CST
+louisville,CST
+lsu,CST
+marshall,EST
+maryland,EST
+massachusetts,EST
+memphis,CST
+miami,EST
+miami fla,EST
+miami ohio,EST
+michigan,EST
+michigan st.,EST
+middle tenn,CST
+minnesota,CST
+mississippi,CST
+mississippi st.,CST
+missouri,CST
+navy,EST
+nebraska,CST
+nevada,PST
+new england,EST
+new mexico,MST
+new mexico st.,MST
+new orleans,CST
+no carolina st.,EST
+north carolina,EST
+north texas,CST
+northern ill,CST
+northwestern,CST
+notre dame,EST
+ny giants,EST
+ny jets,EST
+ohio,EST
+ohio st.,EST
+oklahoma,CST
+oklahoma st.,CST
+old dominion,EST
+oregon,PST
+oregon st.,PST
+penn st.,PST
+philadelphia,EST
+pittsburgh,EST
+purdue,EST
+rice,CST
+rutgers,EST
+s. florida,EST
+san diego st.,PST
+san francisco,PST
+san jose st.,PST
+seattle,PST
+smu,CST
+south alabama,CST
+south carolina,EST
+southern miss,CST
+stanford,PST
+syracuse,EST
+tampa bay,EST
+tcu,CST
+temple,CST
+tennessee,CST
+texas,CST
+texas a&m,CST
+texas state,CST
+texas tech,CST
+toledo,EST
+troy,CST
+tulane,CST
+tulsa,CST
+uab,CST
+ucf,EST
+ucla,PST
+ul lafayette,EST
+ul monroe,CST
+unlv,PST
+usc,PST
+utah,MST
+utah st.,MST
+utep,CST
+utsa,CST
+vanderbilt,CST
+virginia,EST
+virginia tech,EST
+wake forest,EST
+washington,EST
+washington st.,PST
+west virginia,EST
+western kentucky,CST
+western mich,EST
+wisconsin,CST
+wyoming,MST
